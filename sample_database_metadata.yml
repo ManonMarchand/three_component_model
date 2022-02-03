@@ -1,0 +1,37 @@
+tables:
+  solvent_infos: # those informations come from literature
+    - solvent, text PRIMARY KEY
+    - temperature, int PRIMARY KEY # °C
+    - solvent_viscosity, # Pa.s
+  microgels: # table waiting to host information from light scattering
+    - microgel_name,  text PRIMARY KEY # same than microgel_type
+    - solvent,  text PRIMARY KEY
+    - temperature, int PRIMARY KEY #°C
+    - gyration_radius, float #m
+    - coefficient_diffusion, float # m2/s
+    - hydrodynamic_radius, float # m
+  tc_fit_results: # from fitting the flow curves
+    - sample_ID, int PRIMARY KEY
+    - temperature, int PRIMARY KEY
+    - contrainte_seuil_TC, float # Pa (It's the yield stress)
+    - err_contrainte_seuil_TC, float # Pa
+    - caracteristic_shear_rate_TC, float # s-1
+    - err_caracteristic_shear_rate_TC, float # s-1
+    - viscosity_infini, float #Pa.s
+    - err_viscosity_infini, float #Pa.s
+    - critical_strain_TC, float # no units (careful, not in %)
+    - err_critical_strain_TC # no units
+  sample_prep_info:
+    - sample_ID, int PRIMARY KEY
+    - solvant, text
+    - microgel_type, text # same than microgel_name
+    - w_percent, float # weight percentage of dry microgel in solvent
+  amp_sweep_info:
+    - sample_ID, int PRIMARY KEY
+    - temperature, int PRIMARY KEY #in °C
+    - crit_stain_intersect, float # no units, extracted from intersection of fits of beginning and end of storage modulus in amplitude sweeps
+    - crit_strain_10percent, float # no units, extracted from first point out of linearity by more than 10%
+  frq_sweep_info:
+    - sample_ID, int PRIMARY KEY
+    - temperature, int PRIMARY KEY # in °C
+    - G, float # in Pa elastic_modulus from beginning of frequency sweep experiment
