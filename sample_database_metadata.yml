@@ -10,17 +10,17 @@ tables:
     - gyration_radius, float #m
     - coefficient_diffusion, float # m2/s
     - hydrodynamic_radius, float # m
-  tc_fit_results: # from fitting the flow curves
+  tc_fit_results: # from fitting the flow curves with a TC model
     - sample_ID, int PRIMARY KEY
     - temperature, int PRIMARY KEY
-    - contrainte_seuil_TC, float # Pa (It's the yield stress)
-    - err_contrainte_seuil_TC, float # Pa
-    - caracteristic_shear_rate_TC, float # s-1
-    - err_caracteristic_shear_rate_TC, float # s-1
-    - viscosity_infini, float #Pa.s
-    - err_viscosity_infini, float #Pa.s
-    - critical_strain_TC, float # no units (careful, not in %)
-    - err_critical_strain_TC # no units
+    - yield_stress_TC, float # Pa 
+    - err_yield_stress_TC, float # Pa
+    - caract_shear_rate, float # s-1
+    - err_caract_shear_rate, float # s-1
+    - viscinf, float #Pa.s
+    - err_viscinf, float #Pa.s
+    - crit_strain_TC, float # no units (careful, not in %)
+    - err_cri_strain_TC # no units
   sample_prep_info:
     - sample_ID, int PRIMARY KEY
     - solvant, text
