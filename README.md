@@ -14,19 +14,20 @@ We test the validity of the Three Component model [1], describing the flow behav
 
 Figures:
 
-* Meta analysis literature data (marco julie)
+* Meta analysis literature data (marco julie) []
 
-* Choice of volume fraction - Just above jamming (manon)
+* Choice of volume fraction - Just above jamming (manon) []
 
 * Flow curves vs Temperature (yield stress not change but solvent viscosity has an effect) 
-    * Inset solvent viscosity vs temp (manon)
+    * Inset solvent viscosity vs temp (manon) []
 
-* TC model on one flow curve - possible comparison with HB - AIC, Chisquare (marco julie) 
-    * exponent HB as function of temperature
+* TC model on one flow curve - possible comparison with HB - AIC, Chisquare (marco julie) []
+    * exponent HB as function of temperature 
 
-* TC parameters vs temperature (manon)
+* TC parameters vs temperature (manon) []
 
-* Master curve for all data - rescaled by alligning Bi=1 (manon)
+* Master curve for all data - rescaled by alligning Bi=1 (manon) []
 
-
-check polyacrilamide sample (marco)
+# TODO list 
+check polyacrilamide sample (marco) []
+add flow curves to the database (manon) []
