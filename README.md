@@ -34,6 +34,7 @@ We test the validity of the Three Component model [1], describing the flow behav
 ## TODO list 
 - [ ] check polyacrilamide sample (marco)
 - [ ] add flow curves to the database (manon) 
+- [x] create overleaf project
 
 ## What frontiers in physics says about articles rules 
 
