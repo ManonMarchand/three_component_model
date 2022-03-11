@@ -38,3 +38,14 @@ We test the validity of the Three Component model [1], describing the flow behav
 ## What frontiers in physics says about articles rules 
 
 Original Research articles are peer-reviewed, have a maximum word count of 12,000 and may contain no more than 15 Figures/Tables. Authors are required to pay a fee (A-type article) to publish an Original Research article. Original Research articles should have the following format: 1) Abstract, 2) Introduction, 3) Materials and Methods, 4) Results, 5) Discussion. 
+
+### Figures guidelines
+
+Figures should be prepared with the PDF layout in mind. Individual figures should not be longer than one page and with a width that corresponds to 1 column (85 mm) or 2 columns (180 mm).
+
+All images must have a resolution of 300 dpi at final size. Check the resolution of your figure by enlarging it to 150%. If the image appears blurry, jagged or has a stair-stepped effect, the resolution is too low.
+
+    The text should be legible and of high quality. The smallest visible text should be no less than 8 points in height when viewed at actual size.
+    Solid lines should not be broken up. Any lines in the graphic should be no smaller than 2 points wide.
+
+Please note that saving a figure directly as an image file (JPEG, TIF) can greatly affect the resolution of your image. To avoid this, one option is to export the file as PDF, then convert into TIFF or EPS using a graphics software.
