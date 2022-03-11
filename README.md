@@ -34,3 +34,7 @@ We test the validity of the Three Component model [1], describing the flow behav
 ## TODO list 
 - [ ] check polyacrilamide sample (marco)
 - [ ] add flow curves to the database (manon) 
+
+## What frontiers in physics says about articles rules 
+
+Original Research articles are peer-reviewed, have a maximum word count of 12,000 and may contain no more than 15 Figures/Tables. Authors are required to pay a fee (A-type article) to publish an Original Research article. Original Research articles should have the following format: 1) Abstract, 2) Introduction, 3) Materials and Methods, 4) Results, 5) Discussion. 
