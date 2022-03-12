@@ -34,4 +34,11 @@ tables:
   frq_sweep_info:
     - sample_ID, int PRIMARY KEY
     - temperature, int PRIMARY KEY # in °C
+   flow_curves:
+    - sample_ID, int
+    - temperature, int # the one from the consigne, always good \pm 0.02 °C
+    - shear_stress, float # in Pa 
+    - viscosity, float # Pa.s
+    - shear_rate, float # s-1
+    - time, float # s , the interval time (useful to see the direction of shear rate changes)
     - G, float # in Pa elastic_modulus from beginning of frequency sweep experiment
