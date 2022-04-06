@@ -26,8 +26,10 @@ We test the validity of the Three Component model [1], describing the flow behav
 
 - [ ] TC model on one flow curve - possible comparison with HB - AIC, Chisquare (marco julie)
     * exponent HB as function of temperature 
+    * note for Marco : maybe use the sample_ID 20210716006 and the temperature of 20°C for this flow curve ? It's my standard sample.
 
-- [ ] TC parameters vs temperature (manon)
+- [x] TC parameters vs temperature (manon)
+    * made as a one column plot but it may be a terrible idea
 
 - [ ] Master curve for all data - rescaled by alligning Bi=1 (manon)
 
