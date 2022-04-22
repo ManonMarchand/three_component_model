@@ -33,7 +33,7 @@ We test the validity of the Three Component model [1], describing the flow behav
     * check guide to eyes flat on ys
     * Inset crit shear rate vs infinite viscosity
 
-- [ ] Master curve for all data presented - rescaled by alligning Bi=1 (manon)
+- [x] Master curve for all data presented - rescaled by alligning Bi=1 (manon)
 
 ## TODO list 
 - [ ] check polyacrilamide sample (marco)
