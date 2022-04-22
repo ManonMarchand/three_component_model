@@ -25,7 +25,7 @@ We test the validity of the Three Component model [1], describing the flow behav
 - [x] Flow curves vs Temperature (yield stress not change but solvent viscosity has an effect) 
     * Inset solvent viscosity vs temp (manon)
 
-- [ ] TC model on one flow curve - possible comparison with HB - AIC, Chisquare (marco julie)
+- [x] TC model on one flow curve - possible comparison with HB - AIC, Chisquare (marco julie)
     * exponent HB as function of temperature. Should we add residuals? 
 
 - [ ] TC parameters vs temperature (manon)
