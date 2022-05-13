@@ -1,4 +1,4 @@
-stress 	shear_rate 	viscosity 	step_time 	temperature 	normal_stress
+stress	shear_rate	viscosity	step_time	temperature	normal_stress
 10.2619 	100.001 	0.102618 	10.0320 	10.09 	-50.1984
 10.2098 	100.003 	0.102095 	20.0440 	10.27 	-50.1787
 10.1436 	99.9983 	0.101438 	30.0480 	10.45 	-46.0679
