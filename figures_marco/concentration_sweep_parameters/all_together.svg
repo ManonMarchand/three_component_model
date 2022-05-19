@@ -32,9 +32,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.99532809"
-     inkscape:cx="447.5911"
-     inkscape:cy="254.18754"
+     inkscape:zoom="0.87058038"
+     inkscape:cx="447.40269"
+     inkscape:cy="338.85441"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="-1928"
@@ -11558,13 +11558,15 @@
      y="162.30214" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.412px;line-height:1.25;font-family:Garamond;-inkscape-font-specification:'Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4603;stroke-linecap:butt;stroke-linejoin:round"
-     x="102.67721"
-     y="184.52034"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.412px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4603;stroke-linecap:butt;stroke-linejoin:round"
+     x="100.50877"
+     y="184.3035"
      id="text7101"><tspan
        sodipodi:role="line"
        id="tspan7099"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.412px;font-family:Garamond;-inkscape-font-specification:'Garamond, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.4603"
-       x="102.67721"
-       y="184.52034">G</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.412px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.4603"
+       x="100.50877"
+       y="184.3035">G<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan9781">0</tspan></tspan></text>
 </svg>
